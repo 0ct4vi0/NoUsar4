@@ -1,0 +1,45 @@
+.conteiner_form{
+    display: flex;
+    margin: 10px;
+    background-color: rgb(150, 143, 143);
+    width: 430px;
+    height: 350px;
+    padding: 10px;
+    border:  4px solid black;
+    /* align-items: center; */
+}
+
+.formulario #sucursal{
+    margin: 10px;
+}
+
+.formulario input{
+    margin: 16px;
+    color: black;
+}
+
+.formulario .formulario__texto{
+    display: flex;
+    margin: 16px;
+    /* margin-left: 58px; */
+    padding: 10px 125PX 80PX 80px;
+    /* width: 190px; */
+}
+
+.formulario .boton{
+    display: flex;
+    background-color: rgb(32, 32, 32);
+    color: rgba(235, 240, 245, 0.979);
+    width: 225px;
+    border: 2px  solid   rgb(32, 32, 32) ;
+    border-radius: 10px;
+    /* margin-top: 43px; */
+    margin-left: 85px;
+    padding-left: 86px;
+
+}
+.formulario .boton:hover{
+    color: blue;
+    background-color: rgb(102, 133, 141);
+
+}

@@ -1,0 +1,70 @@
+.especificasiones{
+    justify-content: space-evenly;
+    padding: 25px;
+    margin-top: 1rem;
+    display: flex;
+}
+
+.especificasiones .diseño {
+    margin: 20px;
+    width: 230px;
+    height: 290px;
+    padding: 15px;
+    background-color: rgb(165, 163, 163);
+}
+
+.especificasiones .diseño h3 {
+    margin: 10px;
+}
+
+.especificasiones .equpio{
+    margin: 20px;
+    width: 240px;
+    height: 290px;
+    padding: 15px;
+    background-color: rgb(165, 163, 163);
+}
+
+.especificasiones .equpio h3 {
+    display: block;
+    margin: 5px;
+}
+
+.especificasiones .seguridad {
+    margin: 20px;
+    width: 230px;
+    height: 290px;
+    padding: 15px;
+    background-color: rgb(165, 163, 163);
+}
+
+.especificasiones .seguridad h3 {
+    margin: 10px;
+}
+
+
+.subtitulo3 {
+    font-size: 30px;
+    text-align: center;
+    padding: 15px;
+    color:rgb(61, 59, 59);
+    margin-top: 40px;
+
+}
+
+.expocicion {
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+.expocicion img{
+        width: 200px;
+        height: 200px;
+        padding: 5px;
+        margin: 5px;
+        margin-bottom: 4rem;
+        margin-top: 2rem;
+
+}
